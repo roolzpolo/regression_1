@@ -6,3 +6,6 @@ El foco está en la aplicación práctica de conceptos fundamentales como el an�
 
 A lo largo del proyecto, se aplicaran técnicas de visualización de datos para entender las relaciones entre variables, se entrenarán modelos de regresión lineal para predecir una variable dependiente a partir de una variable independiente, y se evaluarás el rendimiento de estos modelos. Este enfoque paso a paso no solo fortalece la comprensión de los principios subyacentes sino que también fortalece las habilidades practicas en la manipulacion de datos, la implementación de modelos matemáticos, y la interpretación de resultados en un contexto de ciencia de datos.
 
+VIDEO EXPLICANDO EL MODELO
+
+https://youtu.be/hoGSM0b3Yso
